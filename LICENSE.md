@@ -2,3 +2,4 @@
 This is diff testing
 Master line
 master conflict
+
