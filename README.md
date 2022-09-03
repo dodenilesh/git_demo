@@ -1,0 +1,1 @@
+# This is sample git demo project part of DevOps courses
