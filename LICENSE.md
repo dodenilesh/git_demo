@@ -1,3 +1,3 @@
 ## THis is test sample file
-This is diff testing
+Conflict on updates
 Conflict creation again
