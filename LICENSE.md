@@ -1,5 +1,5 @@
 ## THis is test sample file
-This is diff testing
+Conflict on master
 Master line
 master conflict
 
